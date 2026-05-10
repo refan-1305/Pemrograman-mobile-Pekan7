@@ -126,7 +126,7 @@ flutter pub get
 // Untuk Android Emulator
 static const String baseUrl = 'http://10.0.2.2:8000/api';
 
-// Untuk HP Fisik (ganti dengan IP WiFi kamu)
+// Untuk HP Fisik 
 static const String baseUrl = 'http://192.168.1.XXX:8000/api';
 ```
 

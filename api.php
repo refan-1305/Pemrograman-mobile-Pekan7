@@ -2,8 +2,7 @@
 //------- Author : Refan Rustoni Putra ------
 //------- Versi : 10  ------
 //------- Ownership : Pribadi------
-//------- Deskripsi : Aplikasi manajemen data mahasiswa berbasis Flutter yang terintegrasi dengan Laravel REST API.
-Fitur meliputi tampil, tambah, edit, hapus data mahasiswa beserta upload foto menggunakan HTTP request. -------
+//------- Deskripsi : Aplikasi manajemen data mahasiswa berbasis Flutter yang terintegrasi dengan Laravel REST API. Fitur meliputi tampil, tambah, edit, hapus data mahasiswa beserta upload foto menggunakan HTTP request. -------
 //------- Pekan Ke 7 --------------
 
 //------- Library --------

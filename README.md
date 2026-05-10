@@ -1,12 +1,12 @@
-# 📱 Manajemen Data Mahasiswa
+#  Manajemen Data Mahasiswa
 ### Integrasi Flutter dengan Laravel REST API
 
-> Tugas Praktikum Pekan Ke-6 — Pemrograman Mobile  
+> Tugas Praktikum Pekan Ke-7 — Pemrograman Mobile  
 > Program Studi Teknik Komputer — Universitas Komputer Indonesia
 
 ---
 
-## 👤 Identitas
+##  Identitas
 
 | | |
 |---|---|
@@ -18,13 +18,13 @@
 
 ---
 
-## 📋 Deskripsi
+## Deskripsi
 
 Aplikasi manajemen data mahasiswa berbasis Flutter yang terintegrasi dengan Laravel REST API. Fitur meliputi tampil, tambah, edit, hapus data mahasiswa beserta upload foto menggunakan HTTP request.
 
 ---
 
-## 🛠️ Teknologi
+## Teknologi
 
 **Backend**
 - Laravel 11 (PHP)
@@ -45,7 +45,7 @@ Aplikasi manajemen data mahasiswa berbasis Flutter yang terintegrasi dengan Lara
 
 ---
 
-## ✨ Fitur
+## Fitur
 
 - ✅ Tampilkan daftar mahasiswa
 - ✅ Tambah mahasiswa baru + upload foto
@@ -59,7 +59,7 @@ Aplikasi manajemen data mahasiswa berbasis Flutter yang terintegrasi dengan Lara
 
 ---
 
-## 🗄️ Struktur Database
+## Struktur Database
 
 | Field | Tipe | Keterangan |
 |-------|------|------------|
@@ -137,7 +137,7 @@ flutter run
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Fungsi |
 |--------|----------|--------|
@@ -158,7 +158,7 @@ flutter run
 
 ---
 
-## 📚 Swagger Documentation
+## Swagger Documentation
 
 Setelah server Laravel berjalan, akses dokumentasi API di:
 ```
@@ -199,9 +199,6 @@ http://localhost:8000/api/documentation
 
 ---
 
-## 🔗 Links
-
-- 🔗 LinkedIn: [Refan Rustoni Putra](https://www.linkedin.com/in/refan-rustoni-putra-a381b2401/)
 
 ---
 

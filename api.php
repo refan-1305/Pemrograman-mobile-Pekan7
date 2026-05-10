@@ -1,4 +1,5 @@
-/* -------  Nama Program : Integrasi Flutter dengan Laravel REST API untuk Manajemen Data Mahasiswa ------- */
+<?php
+// -------  Nama Program : Integrasi Flutter dengan Laravel REST API untuk Manajemen Data Mahasiswa ------- 
 //------- Author : Refan Rustoni Putra ------
 //------- Versi : 10  ------
 //------- Ownership : Pribadi------
@@ -6,9 +7,6 @@
 //------- Pekan Ke 7 --------------
 
 //------- Library --------
-
-<?php
-
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\MahasiswaController;
 
